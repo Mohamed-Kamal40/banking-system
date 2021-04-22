@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1610968382 source:d:\iti\datastructure\final project\datastructureproject\src\cashier.cpp
+	"Cashier.h"
+
+1610969654 d:\iti\datastructure\final project\datastructureproject\include\cashier.h
+
+1610967970 source:d:\iti\datastructure\final project\datastructureproject\src\node.cpp
+	"Node.h"
+
+1610968834 d:\iti\datastructure\final project\datastructureproject\include\node.h
+	<iostream>
+
+1610968281 source:d:\iti\datastructure\final project\datastructureproject\src\client.cpp
+	"Client.h"
+
+1610968907 d:\iti\datastructure\final project\datastructureproject\include\client.h
+	<iostream>
+	<climits>
+
+1610968047 source:d:\iti\datastructure\final project\datastructureproject\src\linkedlist.cpp
+	"LinkedList.h"
+
+1610969606 d:\iti\datastructure\final project\datastructureproject\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1610968244 source:d:\iti\datastructure\final project\datastructureproject\src\queue.cpp
+	"Queue.h"
+
+1610968806 d:\iti\datastructure\final project\datastructureproject\include\queue.h
+	"LinkedList.h"
+
+1610969768 source:d:\iti\datastructure\final project\datastructureproject\main.cpp
+	<iostream>
+	<climits>
+	"Client.h"
+	"HelperFunctions.h"
+	"LinkedList.h"
+	"Cashier.h"
+	"Queue.h"
+
+1610969902 d:\iti\datastructure\final project\datastructureproject\include\helperfunctions.h
+
